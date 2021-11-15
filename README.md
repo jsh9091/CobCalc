@@ -13,4 +13,4 @@ To compile CobCalc with GnuCobol:
 
 To run CobCalc: 
 1) In the terminal run the command: ./CobCalc
-2) Follow the prompts in the program to enter as instructed. 
+2) Follow the prompts in the program to enter information as instructed. 
