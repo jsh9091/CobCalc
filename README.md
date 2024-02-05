@@ -1,7 +1,7 @@
 # CobCalc
 CobCalc is a simple calculator program written in COBOL. 
 
-CobCalc was tested with GnuCOBOL 3.1.2.0.  
+CobCalc was tested with GnuCOBOL 3.2.0.  
 
 CobCalc performs basic addition, subtraction, multiplication, and division operations. The program supports numbers as large as having seven digits to the left of the decimal point and two digits to the right of the decimal point. 
 
