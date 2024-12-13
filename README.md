@@ -8,9 +8,9 @@ CobCalc performs basic addition, subtraction, multiplication, and division opera
 To compile CobCalc with GnuCobol: 
 
 1) In the terminal, navigate to the directory containing the CobCalc.cob file. 
-2) Enter the command: cobc -x CobCalc.cob 
+2) Enter the command: ```cobc -x CobCalc.cob``` 
 3) The directory should now contain a file name CobCalc without the “.cob” extension. 
 
 To run CobCalc: 
-1) In the terminal run the command: ./CobCalc
+1) In the terminal run the command: ```./CobCalc```
 2) Follow the prompts in the program to enter information as instructed. 
